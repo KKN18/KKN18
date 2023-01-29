@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 #### 📫 How to reach me: ...
 ![Velog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@roqkfwk7lnam)
+<a href="https://velog.io/@roqkfwk7lnam"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@roqkfwk7lnam"/></a>
 <a href="mailto:kimkinam111868@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=kimkinam111868@gmail.com"/></a>
 <a href="https://www.instagram.com/_7lnam_b/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_7lnam_b/"/></a>
 <a href="https://www.facebook.com/profile.php?id=100007740605202"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007740605202"/></a>

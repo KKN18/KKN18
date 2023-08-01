@@ -35,5 +35,3 @@ Here are some ideas to get you started:
 <a href="mailto:kimkinam111868@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=kimkinam111868@gmail.com"/></a>
 <a href="https://www.instagram.com/_7lnam_b/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_7lnam_b/"/></a>
 <a href="https://www.facebook.com/profile.php?id=100007740605202"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007740605202"/></a>
-
-
